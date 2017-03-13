@@ -1,0 +1,5 @@
+SingleLEDStatus	KEYWORD1
+setup	KEYWORD2
+loop	KEYWORD2
+setState	KEYWORD2
+setCommand	KEYWORD2
