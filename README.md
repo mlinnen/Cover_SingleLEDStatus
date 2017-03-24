@@ -39,7 +39,7 @@ If you have a broker on your network that is password protected then use the tes
 
 Once the broker and the audit are running you can go ahead and download the code to the arduino and let it run.
 
-Closing the up or down switches will change the state of the sensor and it will be published onto MQTT.
+Executing the state batch files in the test/MQTT/ folder will publish a message on the MQTT broker and change the state of the LED.  If you are using a local broker without a user name and password then use the batchfiles that start with local. 
 
 
 ### More Complete Examples
